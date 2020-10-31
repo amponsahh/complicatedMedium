@@ -7,8 +7,8 @@ A simple 24hr clock face that displays time/day/date in conjunction with user bi
 
 Screenshots:
 
-[![S01](https://raw.githubusercontent.com/namponsah/complicatedMedium/main/resources/screenshots/01complicatedMedium-screenshot.png)]() <br /> <br />
-[![S02](https://raw.githubusercontent.com/namponsah/complicatedMedium/main/resources/screenshots/complicatedMedium-screenshot.png)] ()
+[![S0](https://raw.githubusercontent.com/namponsah/complicatedMedium/main/resources/screenshots/01complicatedMedium-screenshot.png)]() <br /> <br />
+[![S1](https://raw.githubusercontent.com/namponsah/complicatedMedium/main/resources/screenshots/complicatedMedium-screenshot.png)]()
 
 Disclaimer: 
 
