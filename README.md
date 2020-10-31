@@ -1,5 +1,5 @@
 # complicatedMedium
-A 24hr clock face that displays time/day/date in conjunction with user biometrics to facilitate a streamlined at-a-glance look
+A simple 24hr clock face that displays time/day/date in conjunction with user biometrics to facilitate a streamlined at-a-glance look
 
 _**complicatedMedium is optimized for Fitbit SDK Verion 4.2 with build target for the Fitbit Ionic only**_
 
@@ -10,3 +10,4 @@ Screenshots
 ![Image name](https://raw.githubusercontent.com/namponsah/complicatedMedium/main/resources/screenshots/01complicatedMedium-screenshot.png) <br /> <br />
 ![Image name](https://raw.githubusercontent.com/namponsah/complicatedMedium/main/resources/screenshots/complicatedMedium-screenshot.png)
 
+_complicatedMedium is a private clock face that has yet to be submitted for review; while I do have confidence and faith in my work, I'm obliged to inform to use at your risk and I accept no responsibility for any damage or costs incurred cool?_
