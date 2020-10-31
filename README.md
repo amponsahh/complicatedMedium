@@ -5,9 +5,7 @@ A simple 24hr clock face that displays time/day/date in conjunction with user bi
 
 **Screenshots:** <br />
 [![S0](https://raw.githubusercontent.com/namponsah/complicatedMedium/main/resources/screenshots/01complicatedMedium-screenshot.png)]()      
-[![S1](https://raw.githubusercontent.com/namponsah/complicatedMedium/main/resources/screenshots/Screenshot%202020-10-30%20215410.png)]()      
 [![S1](https://raw.githubusercontent.com/namponsah/complicatedMedium/main/resources/screenshots/complicatedMedium-screenshot.png)]()
-
 
 **Disclaimer:** <br />
 _complicatedMedium_ is a private clock face that is yet to be published on the Fitbit store and therefore has not been submitted for rigorous testing and review by Fitbit staff; while I do have confidence and faith in my work (evidenced by the fact that I am currently using the clock face), I am obliged to inform you to use this clock face at your risk and that I accept no responsibility for any damages or costs incurred. Hope you like it!
