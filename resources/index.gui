@@ -1,0 +1,20 @@
+<svg class="background">
+  <text id="timeHourLabel"/>
+  <text id="timeMinuteLabel"/>
+  <text id="dateLabel"/>
+  <text id="dayLabel"/>
+  
+  <text id="heartrateLabel"/>
+  <text id="stepsLabel"/>
+  <text id="distanceLabel"/>
+  <text id="caloriesLabel"/>
+  <text id="elevationGainLabel"/>
+  <text id="activeZoneMinutesLabel"/>
+  
+  <image id = "heartrateIcon"/>
+  <image id = "stepsIcon"/>
+  <image id = "distanceIcon"/>
+  <image id = "caloriesIcon"/>
+  <image id = "elevationGainIcon"/>
+  <image id = "activeZoneMinutesIcon"/>
+</svg>

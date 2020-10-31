@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~4.2.0"
+  },
+  "fitbit": {
+    "appUUID": "901ba65e-f53b-43a8-8b0a-5e37e4d16b0d",
+    "appType": "clockface",
+    "appDisplayName": "complicatedMedium",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_heart_rate",
+      "access_activity"
+    ],
+    "buildTargets": [
+      "higgs"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "complicatedMedium"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}

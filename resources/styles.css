@@ -1,0 +1,151 @@
+.background {
+  viewport-fill: black;
+}
+
+#dateLabel {
+  font-size: 20;
+  font-family: Colfax-Medium;
+  text-length: 13;
+  text-anchor: end;
+  x: 97%+3;
+  y: 8%+5;
+  fill: lightgray;
+}
+
+#timeHourLabel {
+  font-size: 120;
+  font-family: Colfax-Regular;
+  text-length: 2;
+  text-anchor: end;
+  x: 100%;
+  y: 47%+3;
+  fill: lightgray;
+}
+
+#timeMinuteLabel {
+  font-size: 120;
+  font-family: Colfax-Regular;
+  text-length: 2;
+  text-anchor: end;
+  x: 100%;
+  y: 85%+3;
+  fill: lightgray;
+}
+
+#dayLabel {
+  font-size: 20;
+  font-family: Colfax-Medium;
+  text-length: 9;
+  text-anchor: end;
+  x: 97%+3;
+  y: 98%-5;
+  fill: lightgray;
+}
+
+#heartrateIcon {
+  fill: lightgray;
+  width: 24;
+  height: 24;
+  x: 3%;
+  y: 7%;
+}
+
+#stepsIcon {
+  fill: lightgray;
+  width: 24;
+  height: 24;
+  x: 3%;
+  y: 22%;
+}
+
+#distanceIcon {
+  fill: lightgray;
+  width: 24;
+  height: 24;
+  x: 3%;
+  y: 37%+1;
+}
+
+#caloriesIcon {
+  fill: lightgray;
+  width: 24;
+  height: 24;
+  x: 3%;
+  y: 52%+1;
+}
+
+#elevationGainIcon {
+  fill: lightgray;
+  width: 24;
+  height: 24;
+  x: 3%;
+  y: 67%;
+}
+
+#activeZoneMinutesIcon {
+  fill: lightgray;
+  width: 24;
+  height: 24;
+  x: 3%;
+  y: 82%;
+}
+
+#heartrateLabel { 
+  font-size: 24;
+  font-family: Colfax-Medium;
+  text-length: 24;
+  text-anchor: start;
+  x: 13%;
+  y: 15%;
+  fill: lightgray;
+}
+
+#stepsLabel { 
+  font-size: 24;
+  font-family: Colfax-Medium;
+  text-length: 24;
+  text-anchor: start;
+  x: 13%;
+  y: 30%;
+  fill: lightgray;
+}
+
+#distanceLabel { 
+  font-size: 24;
+  font-family: Colfax-Medium;
+  text-length: 24;
+  text-anchor: start;
+  x: 13%;
+  y: 45%+2;
+  fill: lightgray;
+}
+
+#caloriesLabel { 
+  font-size: 24;
+  font-family: Colfax-Medium;
+  text-length: 24;
+  text-anchor: start;
+  x: 13%;
+  y: 60%+1;
+  fill: lightgray;
+}
+
+#elevationGainLabel { 
+  font-size: 24;
+  font-family: Colfax-Medium;
+  text-length: 24;
+  text-anchor: start;
+  x: 13%;
+  y: 75%+1;
+  fill: lightgray;
+}
+
+#activeZoneMinutesLabel { 
+  font-size: 24;
+  font-family: Colfax-Medium;
+  text-length: 24;
+  text-anchor: start;
+  x: 13%;
+  y: 90%+1;
+  fill: lightgray;
+}
