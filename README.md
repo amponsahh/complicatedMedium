@@ -1,4 +1,4 @@
-# complicatedMedium
+# _complicatedMedium_
 A simple 24hr clock face that displays time/day/date in conjunction with user biometrics to facilitate a streamlined at-a-glance look
 
 **_complicatedMedium_ is optimized for Fitbit SDK Verion 4.2 with build target for the Fitbit Ionic only**
